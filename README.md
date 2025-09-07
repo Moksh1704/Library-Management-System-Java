@@ -33,5 +33,5 @@ Admin → username: admin, password: admin123
 User → username: user1, password: 1234
 
 
-📂 Project Type
+ Project Type
 Personal project

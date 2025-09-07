@@ -1,9 +1,9 @@
-# 📚 Library Management System (Java Swing)
+#  Library Management System (Java Swing)
 
 A desktop-based **Library Management System** built with **Java (Swing, OOP)**.  
 This project manages books, users, and borrowing/returning of books with a clean GUI.
 
-## ✨ Features
+##  Features
 - Add, update, delete books (Admin only)
 - Borrow and return books with **due dates** & **fine calculation**
 - Book categories & filters
@@ -14,12 +14,12 @@ This project manages books, users, and borrowing/returning of books with a clean
 - Persistent storage (`library_state.dat`)
 - Optional icons for better UI
 
-## 🖥️ Tech Stack
+##  Tech Stack
 - **Java 8+**
 - **Swing (GUI)**
 - **Object-Oriented Programming**
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/Library-Management-System-Java.git

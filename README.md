@@ -24,11 +24,8 @@ This project manages books, users, and borrowing/returning of books with a clean
    ```bash
    git clone https://github.com/your-username/Library-Management-System-Java.git
    cd Library-Management-System-Java/src
-Compile:
 
-javac *.java
 
-java Main
 Default users:
 
 Admin → username: admin, password: admin123
